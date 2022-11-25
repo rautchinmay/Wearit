@@ -4,7 +4,7 @@
 # https://aka.ms/yaml
 
 schedules:
-- cron: "0 0 25-24/15 1-12 0-6"
+- cron: "0 0 15-31/15 1-12 0-6"
   displayName: schedule after every 15 days
   branches:
     include:
